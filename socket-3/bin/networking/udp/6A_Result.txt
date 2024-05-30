@@ -1,0 +1,6 @@
+Microsoft Windows [Version 10.0.22631.3593]
+(c) Microsoft Corporation. All rights reserved.
+
+C:\Users\81809\OneDrive\ドキュメント\netpro2024\socket-3> cmd /C "C:\Users\81809\AppData\Roaming\Code\User\globalStorage\pleiades.java-extension-pack-jdk\java\21\bin\java.exe -XX:+ShowCodeDetailsInExceptionMessages -cp C:\Users\81809\OneDrive\ドキュメント\netpro2024\socket-3\bin networking.udp.UDPClient "
+メッセージを入力してください (終了するには 'exit' を入力): abc
+受信:ABC
